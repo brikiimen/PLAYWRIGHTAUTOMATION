@@ -1,4 +1,4 @@
-# PLAYWRIGHTAUTOMATION
+# PLAYWRIGHT_AUTOMATION
 Collection of Playwright automation testing projects, exercises, and assignments built with JavaScript
 
 This repository contains Playwright applications, hands-on exercises, and assignments completed during the **Playwright JS/TS Automation Testing from Scratch & Framework** course by Rahul Shetty Academy on Udemy.
